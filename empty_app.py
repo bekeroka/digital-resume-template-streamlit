@@ -6,7 +6,7 @@ from PIL import Image
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Pavel 242"
 PAGE_ICON = ":wave: :sunglasses:"
-NAME = "Papp Luca"
+NAME = "Pappp Luca"
 DESCRIPTION = """
 Senior Data Analyst"""
 
