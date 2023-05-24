@@ -6,7 +6,7 @@ from PIL import Image
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Pavel 242"
 PAGE_ICON = ":wave: :sunglasses:"
-NAME = "Pavel Chocholous"
+NAME = "Papp Luca"
 DESCRIPTION = """
 Senior Data Analyst"""
 
@@ -22,7 +22,7 @@ with st.sidebar:
 col1, col2 = st.columns(2, gap="small")
 
 with col1:
-    st.title("Nějaký text")
+    st.title("ide irok valamit")
     st.write("Nějaký další text")
 
 with col2:
