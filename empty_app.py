@@ -6,9 +6,9 @@ from PIL import Image
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Pavel 242"
 PAGE_ICON = ":wave: :sunglasses:"
-NAME = "Pappp Luca"
+NAME = "Papp Luca"
 DESCRIPTION = """
-Senior Data Analyst"""
+Junior Data Analyst"""
 
 st.set_page_config(page_title="Nadpis stránky", page_icon=":sunglasses:")
 
